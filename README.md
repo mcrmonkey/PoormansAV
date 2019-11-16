@@ -1,7 +1,7 @@
 # PoormansAV
 
 Designed to look for known malicious files on an old windows web server that
-some AV systems didn't pick up on.A
+some AV systems didn't pick up on.
 
 Makes use of `md5deep.exe` - Downloadable from http://md5deep.sourceforge.net/
 
